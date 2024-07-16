@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/AccordionReact/static/css/main.68fada46.css",
+    "main.js": "/AccordionReact/static/js/main.6cd91106.js",
+    "static/media/logo.svg": "/AccordionReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/background-pattern-desktop.svg": "/AccordionReact/static/media/background-pattern-desktop.621478cf83f8150af60411d3765de0eb.svg",
+    "index.html": "/AccordionReact/index.html",
+    "static/media/icon-star.svg": "/AccordionReact/static/media/icon-star.189fd38b8aefdc8fbe0d4008b1ff497e.svg",
+    "static/media/icon-plus.svg": "/AccordionReact/static/media/icon-plus.6c5381bcc9a768ea5c3683e11c6bfd6c.svg",
+    "static/media/icon-minus.svg": "/AccordionReact/static/media/icon-minus.5575b6de09a1e0deab1dd585ada35f31.svg",
+    "main.68fada46.css.map": "/AccordionReact/static/css/main.68fada46.css.map",
+    "main.6cd91106.js.map": "/AccordionReact/static/js/main.6cd91106.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68fada46.css",
+    "static/js/main.6cd91106.js"
+  ]
+}
