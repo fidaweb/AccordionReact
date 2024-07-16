@@ -2,7 +2,7 @@
   "name": "react-faq-accordion-main",
   "version": "0.1.0",
   "private": true,
-  "home":"https://fidaullah1.github.io/AccordionReact",
+  "homepage":"https://fidaullah1.github.io/AccordionReact",
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.0",
     "@radix-ui/react-icons": "^1.3.0",
